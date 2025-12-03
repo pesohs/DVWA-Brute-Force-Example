@@ -1,0 +1,22 @@
+# Disclaimer
+
+This project is intended **solely for educational and ethical security research purposes**.
+
+The author **does not condone, support, or encourage** the use of this script for any form of:
+- Unauthorized access  
+- Illegal system intrusion  
+- Malicious activity  
+- Actions that violate local, federal, or international law  
+
+By using this code, you agree that:
+
+1. **You are responsible for your own actions.**  
+2. You will only run this tool on systems you **own** or have **explicit, written permission** to test.  
+3. The author and contributors are **not liable** for any damages, losses, legal issues, or consequences resulting from the use or misuse of this software.  
+
+This tool is a learning resource designed for:
+- Ethical hacking practice  
+- Cybersecurity education  
+- Controlled testing environments such as DVWA, BWAPP, or personal lab setups  
+
+If you do not agree with these terms, **do not use this software**.
