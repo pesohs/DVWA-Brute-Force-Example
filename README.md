@@ -1,6 +1,13 @@
 # Brute-Force-Login-Script
 A web login brute force script made through the Python 101 for Ethical Hacking course at TCM Academy. 
 
+*LEGAL DISCLAIMER:*
+- Use this script only on systems you own or have explicit permission to test.
+Unauthorized brute‑forcing is illegal and unethical. This repository is for educational and lab‑use only.
+
+*Note:*
+- This repo does not include any password wordlists. You must supply your own top-100.txt or custom list.
+
 This is a simple web login brute‑force script I built while going through the Python 101 course on TCM Academy. The goal of this project was to understand how brute forcing works at a basic level such as sending repeated requests, checking server responses, and automating login attempts. 
 
 I decided to test the script on the DVWA(Damn Vulnerable Web Application) brute force module which is intentionally designed for training and legal practice.
