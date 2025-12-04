@@ -17,12 +17,14 @@ If you discover any vulnerabilities **within this repository’s code**, please 
 
 If you discover a bug, vulnerability, or unintended behavior in this repository:
 
-1. **Do NOT open a public issue** about security-sensitive topics.  
+1. Do **NOT** post public exploit details or vulnerabilities.   
 2. **Contact me via GitHub** by opening a private discussion or private issue:  
    - Navigate to my profile: https://github.com/pesohs  
-   - Open a private discussion or issue labeled `security`.  
+   - Open a private discussion or issue labeled `security`.
+3. Provide steps to reproduce, affected files, and context  
 Please **do NOT** open public issues for security-related reports.  
 This prevents exploitation and protects users.
+
 
 ---
 
