@@ -20,7 +20,7 @@ If you discover any vulnerabilities **within this repository’s code**, please 
 
 ### How to Report a Vulnerability
 
-1. Email: d_xlvii@protonmail.com
+1. Github: @0xpesohs
 2. Use the subject line: **"[SECURITY] Vulnerability Report"**
 3. Include:
    - A clear description of the issue  
