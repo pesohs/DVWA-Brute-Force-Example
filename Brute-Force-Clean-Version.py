@@ -1,6 +1,11 @@
 import requests
 import sys
 
+# DISCLAIMER:
+# This script is for EDUCATIONAL USE ONLY inside DVWA or other controlled environments.
+# DO NOT USE against systems you do not own or have explicit permission to test.
+
+
 # Target login page (example DVWA endpoint)
 target = "http://localhost/DVWA/vulnerabilities/brute/"
 
@@ -40,3 +45,4 @@ for username in usernames:
 
         if not found:
             sys.stdout.write("[!] No Password Found for '{}'\n".format(username))
+
