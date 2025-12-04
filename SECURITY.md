@@ -5,11 +5,6 @@
 This project is intended **strictly for educational and authorized security testing purposes only**.  
 Because of the nature of the project, security updates may not follow a fixed schedule.
 
-| Version | Supported          |
-|--------|----------------------|
-| Latest | :white_check_mark:   |
-| Older  | :x:                  |
-
 If you are using an older version, updating to the latest commit is strongly recommended.
 
 ---
